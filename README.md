@@ -55,5 +55,5 @@ Welcome to my GitHub profile! I’m a **BBA Fintech** student at **Takshashila U
 ## 🌱 What I'm Learning Right Now
 
 - Improving my **SAP ABAP development** skills.
-- Learning **SAP FICO, PPQM, and SD** for enterprise resource planning and business process management.
+- Learning **SAP FICO, PP, QM, and SD** for enterprise resource planning and business process management.
 - Exploring the intersections of **Fintech** and **Blockchain** for business use cases.
