@@ -9,22 +9,18 @@ Welcome to my GitHub profile! I’m a **BBA Fintech** student at **Takshashila U
 - **Eager Learner**: Continuously expanding my knowledge in **Business Management**, **Business Analysis**, and **Fintech**. 📚
 - **Project Enthusiast**: I love working on prototypes and projects that solve real-world problems. From **digital payment systems** to **business analysis tools**, I dive deep into bringing ideas to life. 💡
 - **Public Speaker & Leader**: I enjoy leading teams, solving complex problems, and communicating effectively. 🎤
-- **Creative Explorer**: Besides tech, I’m into **Taekwondo**, **painting**, **singing**, and **dancing** — hobbies that fuel my creativity and help me think outside the box! 🎨🎶
+- **Creative Explorer**: Besides tech, I’m into **Taekwondo**, **singing**, and **dancing** — hobbies that fuel my creativity and help me think outside the box! 🎶
 
 ---
 
 ## 🔧 Technologies & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </div>
 
 ---
@@ -58,53 +54,6 @@ Welcome to my GitHub profile! I’m a **BBA Fintech** student at **Takshashila U
 
 ## 🌱 What I'm Learning Right Now
 
-- Improving my **Python** and **JavaScript** skills.
-- Building more **data-driven applications** and learning more about **Machine Learning** and **AI**.
+- Improving my **SAP ABAP development** skills.
+- Learning **SAP FICO, PPQM, and SD** for enterprise resource planning and business process management.
 - Exploring the intersections of **Fintech** and **Blockchain** for business use cases.
-
----
-
-## 🐍 GitHub Snake Animation
-
-Check out my snake animation below! 🐍  
-It represents my coding journey in a fun and interactive way!
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RxYWRjeDhpMTF5ZGhidDNyZml6bTUwemZyM2VuOWZqeTB1NWQycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPxg9U887PS0B8XT4J/giphy.gif" />
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/NaveenFintech/NaveenFintech/output/snake.svg" alt="Snake animation" />
-
-
-name: Generate snake animation
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
