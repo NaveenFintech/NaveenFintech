@@ -59,7 +59,3 @@ Welcome to my GitHub profile! I’m a **BBA Fintech** student at **Takshashila U
 - **Fintech & Blockchain** innovations.
 
 ---
-
-## 🎇 Contribution Graph
-
-[![Naveen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaveenFintech&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
