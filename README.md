@@ -1,59 +1,64 @@
 # Hi 👋! I'm Naveen Bellamkonda, a Tech Entrepreneur 🚀
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B801&center=true&width=435&lines=Tech+Entrepreneur+%7C+Fintech+Innovator;SAP+ABAP+Developer+%7C+Business+Analyst;Passionate+about+Technology+%26+Finance!)](https://git.io/typing-svg)
+
 Welcome to my GitHub profile! I’m a **BBA Fintech** student at **Takshashila University**, and I’m passionate about using technology to drive impactful solutions in the business world. I'm on a continuous journey of learning and growing in the fields of **Business Analysis**, **Fintech**, and **Entrepreneurship**.
 
 ---
 
 ## 👨‍💻 About Me
 
-- **Eager Learner**: Continuously expanding my knowledge in **Business Management**, **Business Analysis**, and **Fintech**. 📚
-- **Project Enthusiast**: I love working on prototypes and projects that solve real-world problems. From **digital payment systems** to **business analysis tools**, I dive deep into bringing ideas to life. 💡
-- **Public Speaker & Leader**: I enjoy leading teams, solving complex problems, and communicating effectively. 🎤
-- **Creative Explorer**: Besides tech, I’m into **Taekwondo**, **singing**, and **dancing** — hobbies that fuel my creativity and help me think outside the box! 🎶
+- **💡 Eager Learner**: Continuously expanding my knowledge in **Business Management**, **Business Analysis**, and **Fintech**. 📚
+- **⚡ Project Enthusiast**: I love working on prototypes and projects that solve real-world problems.  
+- **🎤 Public Speaker & Leader**: I enjoy leading teams and communicating effectively.  
+- **🎶 Creative Explorer**: I practice **Taekwondo**, **singing**, and **dancing** in my free time.  
 
 ---
 
 ## 🔧 Technologies & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,mysql,postgres" height="50" alt="tech stack"/>
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaveenFintech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaveenFintech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenFintech&theme=dracula&hide_border=false" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaveenFintech&show_icons=true&theme=dracula&hide_border=false" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenFintech&layout=compact&theme=dracula&hide_border=false" alt="top languages" />
 </div>
 
 ---
 
 ## 🔗 Connect with Me
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+<div align="center">
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"/></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo"/></a>
 </div>
 
 ---
 
 ## 🎯 Current Projects
 
-- **Digital Payment Prototype** 💳: A project to simplify and secure online payment systems.
-- **Business Analysis Tools** 📊: Developing software tools that help organizations make smarter business decisions.
-- **Entrepreneurial Ventures** 💡: Exploring new business ideas and products in the **Fintech** space.
+- **💳 Digital Payment Prototype**: Simplifying and securing online payment systems.
+- **📊 Business Analysis Tools**: Developing tools to help organizations make smarter decisions.
+- **🚀 Entrepreneurial Ventures**: Exploring business ideas in **Fintech**.
 
 ---
 
 ## 🌱 What I'm Learning Right Now
 
-- Improving my **SAP ABAP development** skills.
-- Learning **SAP FICO, PP, QM, and SD** for enterprise resource planning and business process management.
-- Exploring the intersections of **Fintech** and **Blockchain** for business use cases.
+- **SAP ABAP Development** 🚀
+- **SAP FICO, PP, QM, SD** for enterprise resource planning.
+- **Fintech & Blockchain** innovations.
+
+---
+
+## 🎇 Contribution Graph
+
+[![Naveen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaveenFintech&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
