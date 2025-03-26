@@ -74,11 +74,7 @@ It represents my coding journey in a fun and interactive way!
 <br clear="both">
 <img src="https://raw.githubusercontent.com/NaveenFintech/NaveenFintech/output/snake.svg" alt="Snake animation" />
 
----
 
-## 🚀 Workflow to Generate Snake Animation
-
-```yaml
 name: Generate snake animation
 
 on:
