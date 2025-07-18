@@ -1,4 +1,4 @@
-# Hi 👋! I'm Naveen Bellamkonda, a Tech Entrepreneur 🚀
+# Hi 👋! I'm Naveen Bellamkonda, a Young Entrepreneur 🚀
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B801&center=true&vCenter=true&width=700&lines=Young+Entrepreneur+%7C+Fintech+Innovator;SAP+ABAP+Developer+%7C+Business+Analyst;Passionate+about+Technology+%26+Finance!)](https://git.io/typing-svg)
 
